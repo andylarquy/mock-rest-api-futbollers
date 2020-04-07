@@ -1,5 +1,7 @@
 {
 
+    "usuarioLogueado":{"id": 1, "nombre":"sebaCapo", "sexo":"M", "posicion":"DC", "email":"sebassdevita@gmail.com", "lat":-34.5677486, "lon":-58.489429 },
+
     "usuarios":[
         {"id": 1, "nombre":"sebaCapo", "sexo":"M", "posicion":"DC", "email":"sebassdevita@gmail.com", "lat":-34.5677486, "lon":-58.489429 },
         {"id": 2, "nombre":"nikoBostero", "sexo":"M", "posicion":"ED", "email":"niko.bostero.232@gmail.com", "lat":-34.6344499, "lon":-58.3672355 },
