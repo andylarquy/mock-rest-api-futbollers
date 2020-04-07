@@ -1,5 +1,13 @@
 {
 
+    "usuarios":[
+        {"id": 1, "nombre":"sebaCapo", "sexo":"M", "posicion":"DC", "email":"sebassdevita@gmail.com", "lat":-34.5677486, "lon":-58.489429 },
+        {"id": 2, "nombre":"nikoBostero", "sexo":"M", "posicion":"ED", "email":"niko.bostero.232@gmail.com", "lat":-34.6344499, "lon":-58.3672355 },
+        {"id": 3, "nombre":"andy", "sexo":"M", "posicion":"DFI", "email":"andres27059934@gmail.com", "lat":34.6016244, "lon":-58.4420183 },
+        {"id": 4, "nombre":"nabo1", "sexo":"M", "posicion":"MC", "email":"elmaildelnabo1@sarasa.com", "lat":-34.6029831, "lon":-58.4408178 },
+        {"id": 5, "nombre":"nabo2", "sexo":"F", "posicion":"EI", "email":"elmaildelnabo2@sarasa.com", "lat":-34.5768884, "lon":-58.4904551 }
+    ],
+
     "equipos":[
         {"id": 1, "nombre":"El equipazo", "owner":1, "integrantes":[1, 2, 3, 4, 5], "maximoDeIntegrantes":5},
         {"id": 2, "nombre":"Equipo Incompleto", "owner":2, "integrantes":[1, 2, 3], "maximoDeIntegrantes":6}
